@@ -1,3 +1,14 @@
+# 仅限学习与交流，如侵权请联系并清除侵权内容
+支持3.3-3.4安卓客户端的资源热下载
+安卓3.3：[3.3](https://github.com/xlpmyxhdr/Launcher-Android/releases/tag/3.3.0)
+安卓3.4：[3.4](https://github.com/xlpmyxhdr/Launcher-Android/releases/tag/3.4.0)
+
+# Only learning and communication, if infringement, please contact and clear the infringing content
+Support hot download of resources from 3.3-3.4 Android client
+Android 3.3: [3.3] (https://github.com/xlpmyxhdr/Launcher-Android/releases/tag/3.3.0)
+Android 3.4: [3.4] (https://github.com/xlpmyxhdr/Launcher-Android/releases/tag/3.4.0)
+
+
 # Anime Game APK Proxy
 This code source is from [577fkj](https://github.com/577fkj) ,which is currently source code has been closed since version 1.7 because they don't want people to use this app for buying private server accounts. here I am just fixing the code so that it can be supported with version 2.8 including being able to login to a custom server without having to use a modified apk made in China which only allows using their server.
 
