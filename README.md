@@ -1,12 +1,12 @@
 # 仅限学习与交流，如侵权请联系并清除侵权内容
-支持3.3-3.4安卓客户端的资源热下载
-安卓3.3：[3.3](https://github.com/xlpmyxhdr/Launcher-Android/releases/tag/3.3.0)
-安卓3.4：[3.4](https://github.com/xlpmyxhdr/Launcher-Android/releases/tag/3.4.0)
+支持3.3-3.4安卓客户端的资源热下载(目前仍然支持老版本的资源热下载)
+安卓3.3：[前往下载](https://github.com/xlpmyxhdr/Launcher-Android/releases/tag/3.3.0)
+安卓3.4：[前往下载](https://github.com/xlpmyxhdr/Launcher-Android/releases/tag/3.4.0)
 
 # Only learning and communication, if infringement, please contact and clear the infringing content
-Support hot download of resources from 3.3-3.4 Android client
-Android 3.3: [3.3](https://github.com/xlpmyxhdr/Launcher-Android/releases/tag/3.3.0)
-Android 3.4: [3.4](https://github.com/xlpmyxhdr/Launcher-Android/releases/tag/3.4.0)
+Support hot download of resources from 3.3-3.4 Android client (Hot download of old versions of resources is still supported)
+Android 3.3: [Go to Downloads](https://github.com/xlpmyxhdr/Launcher-Android/releases/tag/3.3.0)
+Android 3.4: [Go to Downloads](https://github.com/xlpmyxhdr/Launcher-Android/releases/tag/3.4.0)
 
 
 # Anime Game APK Proxy
