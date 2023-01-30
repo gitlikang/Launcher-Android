@@ -5,8 +5,8 @@
 
 # Only learning and communication, if infringement, please contact and clear the infringing content
 Support hot download of resources from 3.3-3.4 Android client
-Android 3.3: [3.3] (https://github.com/xlpmyxhdr/Launcher-Android/releases/tag/3.3.0)
-Android 3.4: [3.4] (https://github.com/xlpmyxhdr/Launcher-Android/releases/tag/3.4.0)
+Android 3.3: [3.3](https://github.com/xlpmyxhdr/Launcher-Android/releases/tag/3.3.0)
+Android 3.4: [3.4](https://github.com/xlpmyxhdr/Launcher-Android/releases/tag/3.4.0)
 
 
 # Anime Game APK Proxy
