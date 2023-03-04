@@ -1,14 +1,22 @@
 # 仅限学习与交流，请勿用在以任何形式（如捐赠，分摊成本，购买兑换码等）的商业行为的私服，如侵权请联系删除侵权内容
 支持3.3-3.4安卓客户端的资源热下载,及游戏内下载资源，不用再去拷贝文件(目前仍然支持老版本的资源热下载)
 你也可以在你的GC中接入，需要修改list
+
 安卓3.3：[前往下载](https://github.com/xlpmyxhdr/Launcher-Android/releases/tag/3.3.0)
+
 安卓3.4：[前往下载](https://github.com/xlpmyxhdr/Launcher-Android/releases/tag/3.4.0)
+
+安卓3.5：[前往下载](https://github.com/xlpmyxhdr/Launcher-Android/releases/tag/3.5.0)
 
 # Only learning and communication, if infringement, please contact and clear the infringing content
 Support hot download of resources from 3.3-3.4 Android client/and in-game download resources, no need to copy files (Hot download of old versions of resources is still supported)
 You can also access it in your GC and need to change the "list"
+
 Android 3.3: [Go to Downloads](https://github.com/xlpmyxhdr/Launcher-Android/releases/tag/3.3.0)
+
 Android 3.4: [Go to Downloads](https://github.com/xlpmyxhdr/Launcher-Android/releases/tag/3.4.0)
+
+Android 3.5: [Go to Downloads](https://github.com/xlpmyxhdr/Launcher-Android/releases/tag/3.5.0)
 
 
 # Anime Game APK Proxy
